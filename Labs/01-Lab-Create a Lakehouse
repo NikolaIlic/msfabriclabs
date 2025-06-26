@@ -22,7 +22,7 @@ Now that you have a workspace, it's time to create a data lakehouse for your dat
 1. In the top left corner, select New item. In the New item window, under the Store data section, select Lakehouse. Give it a name: LH_Fabric_Bootcamp. Leave the option Lakehouse schemas unchecked
     After a minute or so, a new lakehouse will be created:
 
-    ![Screenshot of a new lakehouse.](./Images/new-lakehouse.png)
+    ![Screenshot of a new lakehouse.](./Images/new_lakehouse.png)
 
 1. View the new lakehouse, and note that the **Lakehouse explorer** pane on the left enables you to browse tables and files in the lakehouse:
     - The **Tables** folder contains tables that you can query using SQL semantics. Tables in a Microsoft Fabric lakehouse are based on the open source *Delta Lake* file format, commonly used in Apache Spark.
